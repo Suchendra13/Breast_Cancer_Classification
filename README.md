@@ -44,7 +44,7 @@ The project follows these key steps:
 **Model Evaluation:** The model's performance is assessed using the test set.
 
 ## 4. Exploratory Data Analysis (EDA):
-       A correlation heatmap is generated to visualize the relationships between the different features in the dataset.
+ A correlation heatmap is generated to visualize the relationships between the different features in the dataset.
 
 ## 5. Results
 The trained **Logistic Regression model** performed very well in classifying the tumors.
@@ -61,6 +61,7 @@ The trained **Logistic Regression model** performed very well in classifying the
     accuracy                           0.97       114
    macro avg       0.97      0.97      0.97       114
 weighted avg       0.97      0.97      0.97       114
+
 **Confusion Matrix:** The confusion matrix heatmap confirms the high accuracy, showing a low number of misclassifications.
 
 ## 6. How to Run
