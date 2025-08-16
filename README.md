@@ -1,5 +1,5 @@
 # Breast Cancer Classification using Logistic Regression
-               This project focuses on building a machine learning model to classify breast cancer tumors as either malignant or benign. The model is built using a Logistic Regression algorithm and evaluated on the Wisconsin Breast Cancer dataset, which is available in scikit-learn.
+This project focuses on building a machine learning model to classify breast cancer tumors as either malignant or benign. The model is built using a Logistic Regression algorithm and evaluated on the Wisconsin Breast Cancer dataset, which is available in scikit-learn.
 
 # Table of Contents
 
